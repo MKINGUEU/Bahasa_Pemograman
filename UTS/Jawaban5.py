@@ -15,8 +15,8 @@ def teh():
     print("Jumlah yang harus di bayarkan", total)
 
 def pilihan():
-    print("Nim : 1234567")
-    print("Nama : QWERTY")
+    print("Nim : 20210801159")
+    print("Nama : Michael Julius Hutabarat")
     print("1. Capucino")
     print("2. Teh")
     print("3. exit")
